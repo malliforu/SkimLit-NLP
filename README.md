@@ -1,0 +1,1 @@
+The Goal of the project to create Model which takes the abstract and classify the sequential sentences in the abstract to categories like background, objective, methods, results or conclusions.![image](https://github.com/user-attachments/assets/8241fef8-2ee4-4b99-91c1-8a1b0e052e30)
